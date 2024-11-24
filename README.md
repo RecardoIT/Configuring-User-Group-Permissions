@@ -22,7 +22,7 @@ In this section, i will be going over how to set and configure permissions for f
 <h2>Program walk-through:</h2>
 
 <p align="center">
-To begin, click on the windows search icon, and search for "user" then click on "Active Directory Users and Computers"  <br/>
+Lets say you have a folder or specific file that you only want a user, or a group of users to have access to, how do we do this? we'll it is very simple!  <br/>
 <img src="https://imgur.com/FPkDpOE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />

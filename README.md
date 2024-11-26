@@ -1,4 +1,4 @@
-<h1>User And Group File Permissions</h1>
+<h1>Configuring User & Group Permissions</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 

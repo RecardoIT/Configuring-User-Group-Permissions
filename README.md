@@ -8,16 +8,10 @@ A project created within Oracle VirtualBox, in which i created two seperate virt
 In this section, i will be going over how to set and configure permissions for files, folders and users within windows and active directory.
 <br />
 
-
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
+<h2>Environments & Software Used </h2>
 
 - <b>Windows Server 2022</b> 
-- <b>Windows 11 Enterprise</b> 
+- <b>Oracle VirtualBox</b> 
 
 <h2>Program walk-through:</h2>
 

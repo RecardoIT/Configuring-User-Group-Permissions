@@ -1,7 +1,5 @@
 <h1>Configuring User & Group Permissions</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 A project created within Oracle VirtualBox, in which i created two seperate virtual machines, one running Windows Server 2022 to manage Active Directory, and the second running Windows Enterprise. I also show how to configure an internal network inside of Windows Server 2022.
 
